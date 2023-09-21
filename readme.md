@@ -7,3 +7,5 @@ gestion des commandes de base :
 - git commit 
 - git push
 - git lg
+
+Dragon ball c'est juste de la nostalgie
