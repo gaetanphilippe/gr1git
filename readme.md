@@ -9,3 +9,4 @@ gestion des commandes de base :
 - git lg
 
 Dragon ball c'est juste de la nostalgie
+Kawaii
